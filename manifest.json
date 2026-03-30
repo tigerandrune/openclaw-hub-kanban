@@ -1,0 +1,16 @@
+{
+  "id": "kanban",
+  "name": "Kanban Board",
+  "description": "Drag-and-drop task board with Todo, In Progress, and Done columns.",
+  "author": "tigerandrune",
+  "version": "1.0.0",
+  "size": "full",
+  "permissions": [],
+  "settings": {
+    "columns": {
+      "type": "text",
+      "label": "Column names (comma-separated)",
+      "default": "Todo,In Progress,Done"
+    }
+  }
+}
